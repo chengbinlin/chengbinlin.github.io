@@ -12,9 +12,9 @@ redirect_from:
 
 
 ======
-1.  **[USENIX Security’23]** **Binlin Cheng**, Jiang Ming, Erika A Leal, Haotian Zhang, Jiang Ming. On the Feasibility of Malware Unpacking via Hardware-assisted Loop Profiling.
-1. **[USENIX Security’21]** **Binlin Cheng**, Jiang Ming, Erika A Leal, Haotian Zhang, Jianming Fu, Guojun Peng. Obfuscation-Resilient Executable Payload Extraction From Packed Malware. 
-1. **[CCS’18]** **Binlin Cheng**, Jiang Ming, Jianming Fu, Guojun Peng,Ting Chen, Xiaosong Zhang, and Jean-Yves Marion. Towards Paving the Way for Large-Scale Windows Malware Analysis: Generic Binary Unpacking with Orders-of-Magnitude Performance Boost.
+1.  *[USENIX Security’23]* **Binlin Cheng**, Jiang Ming, Erika A Leal, Haotian Zhang, Jiang Ming. On the Feasibility of Malware Unpacking via Hardware-assisted Loop Profiling.
+1. *[USENIX Security’21]* **Binlin Cheng**, Jiang Ming, Erika A Leal, Haotian Zhang, Jianming Fu, Guojun Peng. Obfuscation-Resilient Executable Payload Extraction From Packed Malware. 
+1. **[CCS’18]** *Binlin Cheng*, Jiang Ming, Jianming Fu, Guojun Peng,Ting Chen, Xiaosong Zhang, and Jean-Yves Marion. Towards Paving the Way for Large-Scale Windows Malware Analysis: Generic Binary Unpacking with Orders-of-Magnitude Performance Boost.
 
 
 <br/><br/><br/>
