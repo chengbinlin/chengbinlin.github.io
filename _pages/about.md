@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "科研成果"
+title: 
 excerpt: "About me"
 author_profile: true
 redirect_from: 
